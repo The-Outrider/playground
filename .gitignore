@@ -1,0 +1,10 @@
+/node_modules
+/public/*
+!/public/index.html
+.idea
+.DS_Store
+
+npm-debug.log
+
+
+
