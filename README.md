@@ -5,7 +5,8 @@ Hey There, so this should be a simpler version to work in and experiment with.
 We're using NGINX as the webserver for files, and Docker as the Virtual Machine.
 
 ## Getting Started
-Run these commands in seperate terminals
+Run Docker Compose in one terminal.
+Run Npm install and npm run watch in another.
 ```
 docker-compose up -d
 npm install
